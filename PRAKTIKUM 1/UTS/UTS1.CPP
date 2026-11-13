@@ -81,6 +81,5 @@ int main() {
 
      cout << "Mahasiswa  Cumlaude     : "
          << namaTertinggi << " (" << nilaiTertinggi << ")" << endl;
-         
     return 0;
 }
