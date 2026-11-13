@@ -1,0 +1,1221 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Jawaban UTS Algoritma dan Pemrograman \055 Muhammad Rizqi Dermawan)
+/Author (Muhammad Rizqi Dermawan)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 5
+/Kids [ 4 0 R 10 0 R 13 0 R 16 0 R 19 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 2767
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.4 .439216 .521569 rg
+BT 1 0 0 1 56.69291 31.1811 Tm (Jawaban UTS \227 Algoritma dan Pemrograman) Tj T* ET
+BT 1 0 0 1 499.9027 31.1811 Tm (Halaman 1) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 753.685 cm
+Q
+q
+1 0 0 1 62.69291 730.685 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 5 Tm /F2 18 Tf 23 TL 66.94188 0 Td (JAWABAN UJIAN TENGAH SEMESTER) Tj T* -66.94188 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 697.685 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 5 Tm /F2 18 Tf 23 TL 82.45788 0 Td (ALGORITMA DAN PEMROGRAMAN) Tj T* -82.45788 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 676.3465 cm
+Q
+q
+1 0 0 1 62.69291 628.3465 cm
+q
+BT 1 0 0 1 0 37 Tm 176.5734 0 Td 16 TL /F1 11 Tf .266667 .266667 .266667 rg (Universitas Al-Khairiyah) Tj  T* .296982 0 Td (Fakultas Ilmu Komputer) Tj  T* -10.71402 0 Td (Tahun Akademik 2026/2027) Tj T* -166.1564 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 600 cm
+Q
+q
+1 0 0 1 92.12598 480 cm
+q
+.968627 .976471 .988235 rg
+n 0 120 411.0236 -120 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 101 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9.5 Tf 14 TL (Nama Mahasiswa) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.3858 101 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (: ............................................................) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 77 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9.5 Tf 14 TL (NIM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.3858 77 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (: ............................................................) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 53 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9.5 Tf 14 TL (Kelas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.3858 53 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (: R2-1A) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 29 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9.5 Tf 14 TL (Mata Kuliah) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.3858 29 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (: Algoritma dan Pemrograman) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9.5 Tf 14 TL (Dosen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.3858 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (: Tubagus M. Isnaeni, M.TI) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.839216 .87451 .917647 RG
+.6 w
+n 0 120 m 411.0236 120 l S
+n 0 0 m 411.0236 0 l S
+n 0 0 m 0 120 l S
+n 411.0236 0 m 411.0236 120 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 448.8189 cm
+Q
+q
+1 0 0 1 62.69291 428.8189 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL 30.41988 0 Td (Disusun sebagai jawaban Ujian Tengah Semester mata kuliah Algoritma dan Pemrograman.) Tj T* -30.41988 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+210 550 190 48 re
+f*
+0.133333 0.133333 0.133333 rg
+BT
+/F1-0 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 213 588 Tm
+(\072 Muhammad Rizqi Dermawan) Tj
+T*
+ET
+BT
+1 0 0 1 213 565 Tm
+(\072 26040017) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 12 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 6251
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.4 .439216 .521569 rg
+BT 1 0 0 1 56.69291 31.1811 Tm (Jawaban UTS \227 Algoritma dan Pemrograman) Tj T* ET
+BT 1 0 0 1 499.9027 31.1811 Tm (Halaman 2) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 769.7008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (SOAL 1 \227 KONSEP ALGORITMA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 720.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32.5 Tm /F1 9.5 Tf 14 TL (Algoritma adalah urutan langkah-langkah yang disusun secara logis dan sistematis untuk menyelesaikan suatu) Tj T* (masalah. Setiap langkah harus jelas sehingga dapat dikerjakan sesuai urutan dan menghasilkan tujuan yang) Tj T* (diinginkan.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 700.7008 cm
+q
+.141176 .278431 .419608 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Karakteristik algoritma yang baik:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.7008 cm
+q
+BT 1 0 0 1 0 18.5 Tm 14 TL /F1 9.5 Tf 0 0 0 rg (1. ) Tj /F2 9.5 Tf (Memiliki input:) Tj /F1 9.5 Tf ( dapat menerima satu atau beberapa data masukan, meskipun ada algoritma yang tidak) Tj T* (memerlukan input.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 646.7008 cm
+q
+BT 1 0 0 1 0 4.5 Tm 14 TL /F1 9.5 Tf 0 0 0 rg (2. ) Tj /F2 9.5 Tf (Menghasilkan output:) Tj /F1 9.5 Tf ( memberikan hasil atau informasi setelah langkah-langkah dijalankan.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 626.7008 cm
+q
+BT 1 0 0 1 0 4.5 Tm 14 TL /F1 9.5 Tf 0 0 0 rg (3. ) Tj /F2 9.5 Tf (Jelas \(definiteness\):) Tj /F1 9.5 Tf ( setiap instruksi memiliki arti yang tegas dan tidak membingungkan.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 606.7008 cm
+q
+BT 1 0 0 1 0 4.5 Tm 14 TL /F1 9.5 Tf 0 0 0 rg (4. ) Tj /F2 9.5 Tf (Berhingga \(finiteness\):) Tj /F1 9.5 Tf ( langkah-langkahnya pasti berhenti setelah sejumlah proses tertentu.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 572.7008 cm
+q
+BT 1 0 0 1 0 18.5 Tm 14 TL /F1 9.5 Tf 0 0 0 rg (5. ) Tj /F2 9.5 Tf (Efektif:) Tj /F1 9.5 Tf ( setiap langkah sederhana, dapat dilaksanakan, dan benar-benar membantu menyelesaikan) Tj T* (masalah.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 552.7008 cm
+q
+BT 1 0 0 1 0 4.5 Tm 14 TL /F1 9.5 Tf 0 0 0 rg (6. ) Tj /F2 9.5 Tf (Terurut dan logis:) Tj /F1 9.5 Tf ( langkah disusun sesuai urutan yang masuk akal agar hasilnya benar.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 524.7008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (SOAL 2 \227 ALGORITMA DAN PROGRAM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 503.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (Perbedaan keempat istilah tersebut adalah sebagai berikut:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.03937 281.7008 cm
+q
+.862745 .901961 .945098 rg
+n 0 216 425.1969 -24 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Istilah) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Pengertian) Tj T* ET
+Q
+Q
+q
+1 0 0 1 289.4646 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Contoh / Peran) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 174 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Algoritma) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 150 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.5 Tm /F1 8.5 Tf 12 TL (Rangkaian langkah logis untuk menyelesaikan) Tj T* (masalah. Tidak terikat pada bahasa) Tj T* (pemrograman tertentu.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 289.4646 150 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.5 Tm /F1 8.5 Tf 12 TL (Langkah menghitung luas persegi) Tj T* (panjang: masukkan panjang dan) Tj T* (lebar, lalu kalikan.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Program) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.5 Tm /F1 8.5 Tf 12 TL (Implementasi algoritma yang ditulis dalam) Tj T* (bahasa pemrograman agar dapat dijalankan) Tj T* (komputer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 289.4646 114 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL (Kode C++ untuk menghitung luas) Tj T* (persegi panjang.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 8.5 Tf 12 TL (Bahasa) Tj T* (pemrograman) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL (Bahasa formal yang memiliki aturan penulisan) Tj T* (\(sintaks\) untuk membuat program.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 289.4646 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL (C++, Python, Java, dan) Tj T* (sebagainya.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Compiler) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 39.5 Tm /F1 8.5 Tf 12 TL (Perangkat lunak yang menerjemahkan kode) Tj T* (sumber dari bahasa pemrograman ke bentuk) Tj T* (yang dapat dijalankan atau diproses komputer,) Tj T* (sekaligus melaporkan kesalahan kompilasi.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 289.4646 30 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL (Contohnya GCC atau g++ untuk) Tj T* (mengompilasi program C++.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.721569 .768627 .819608 RG
+.5 w
+n 0 216 m 425.1969 216 l S
+n 0 0 m 425.1969 0 l S
+n 0 0 m 0 216 l S
+n 425.1969 0 m 425.1969 216 l S
+n 0 192 m 425.1969 192 l S
+n 0 144 m 425.1969 144 l S
+n 0 96 m 425.1969 96 l S
+n 0 60 m 425.1969 60 l S
+n 85.03937 0 m 85.03937 216 l S
+n 283.4646 0 m 283.4646 216 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 253.7008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (SOAL 3 \227 PSEUDOCODE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 218.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.5 Tm /F1 9.5 Tf 14 TL -0.111416 Tw (Untuk menghitung luas dan keliling persegi panjang, diperlukan dua input yaitu panjang dan lebar. Luas dihitung) Tj T* 0 Tw (dengan panjang dikalikan lebar, sedangkan keliling dihitung dengan dua kali jumlah panjang dan lebar.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 92.70079 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 8 112 Tm /F3 8 Tf 10 TL (ALGORITMA PersegiPanjang) Tj T* (DEKLARASI) Tj T* (    panjang, lebar, luas, keliling : real) Tj T*  T* (DESKRIPSI) Tj T* (    INPUT panjang) Tj T* (    INPUT lebar) Tj T* (    luas     <- panjang * lebar) Tj T* (    keliling <- 2 * \(panjang + lebar\)) Tj T* (    OUTPUT "Luas = ", luas) Tj T* (    OUTPUT "Keliling = ", keliling) Tj T* (SELESAI) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 64.70079 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (SOAL 4 \227 TIPE DATA) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 15 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 3387
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.4 .439216 .521569 rg
+BT 1 0 0 1 56.69291 31.1811 Tm (Jawaban UTS \227 Algoritma dan Pemrograman) Tj T* ET
+BT 1 0 0 1 499.9027 31.1811 Tm (Halaman 3) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 773.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (Tipe data C++ yang sesuai untuk masing-masing informasi adalah:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.03937 575.7008 cm
+q
+.862745 .901961 .945098 rg
+n 0 192 425.1969 -24 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 174 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.2126 174 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Tipe data C++) Tj T* ET
+Q
+Q
+q
+1 0 0 1 204.4252 174 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Alasan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 150 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Umur mahasiswa) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.2126 150 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (int) Tj T* ET
+Q
+Q
+q
+1 0 0 1 204.4252 150 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Umur umumnya dinyatakan dalam bilangan bulat.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Nilai IPK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.2126 126 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (float) Tj /F1 8.5 Tf ( atau ) Tj /F2 8.5 Tf (double) Tj T* ET
+Q
+Q
+q
+1 0 0 1 204.4252 114 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL (IPK dapat memiliki angka di belakang koma, misalnya) Tj T* (3.75. double memberi ketelitian lebih tinggi.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 90 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Nama mahasiswa) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.2126 90 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (string) Tj T* ET
+Q
+Q
+q
+1 0 0 1 204.4252 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL (Nama terdiri dari kumpulan karakter dan dapat) Tj T* (mengandung spasi.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Jenis kelamin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.2126 54 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (char) Tj /F1 8.5 Tf ( atau ) Tj /F2 8.5 Tf (string) Tj T* ET
+Q
+Q
+q
+1 0 0 1 204.4252 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL (char dapat menyimpan satu karakter seperti 'L' atau 'P';) Tj T* (string dapat menyimpan teks lengkap.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL (Status mahasiswa) Tj T* (aktif/tidak) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.2126 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (bool) Tj T* ET
+Q
+Q
+q
+1 0 0 1 204.4252 6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL (Hanya memiliki dua kondisi, yaitu true \(aktif\) atau false) Tj T* (\(tidak aktif\).) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.721569 .768627 .819608 RG
+.5 w
+n 0 192 m 425.1969 192 l S
+n 0 0 m 425.1969 0 l S
+n 0 0 m 0 192 l S
+n 425.1969 0 m 425.1969 192 l S
+n 0 168 m 425.1969 168 l S
+n 0 144 m 425.1969 144 l S
+n 0 108 m 425.1969 108 l S
+n 0 72 m 425.1969 72 l S
+n 0 36 m 425.1969 36 l S
+n 99.2126 0 m 99.2126 192 l S
+n 198.4252 0 m 198.4252 192 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 545.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL (Catatan: Untuk nilai IPK, float dan double sama-sama bisa digunakan. Dalam program yang membutuhkan ketelitian lebih) Tj T* (baik, double sering menjadi pilihan.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/Contents 17 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 18 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 3358
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.4 .439216 .521569 rg
+BT 1 0 0 1 56.69291 31.1811 Tm (Jawaban UTS \227 Algoritma dan Pemrograman) Tj T* ET
+BT 1 0 0 1 499.9027 31.1811 Tm (Halaman 4) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 769.7008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (SOAL 5 \227 PENGOLAHAN NILAI MAHASISWA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 720.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32.5 Tm /F1 9.5 Tf 14 TL (Program berikut meminta jumlah mahasiswa, kemudian membaca nama dan nilai setiap mahasiswa) Tj T* (menggunakan perulangan for. Program menentukan kelulusan, menghitung total dan rata-rata nilai, serta) Tj T* (mencari mahasiswa dengan nilai tertinggi dan terendah.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 114.7008 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 8 592 Tm /F3 8 Tf 10 TL (#include <iostream>) Tj T* (#include <string>) Tj T* (#include <limits>) Tj T* (using namespace std;) Tj T*  T* (int main\(\) {) Tj T* (    int jumlah, nilai;) Tj T* (    int total = 0, lulus = 0, tidakLulus = 0;) Tj T* (    int nilaiTertinggi = -1, nilaiTerendah = 101;) Tj T* (    double rataRata;) Tj T* (    string nama, namaTertinggi, namaTerendah;) Tj T*  T* (    cout << "Jumlah mahasiswa : ";) Tj T* (    cin >> jumlah;) Tj T*  T* (    if \(jumlah <= 0\) {) Tj T* (        cout << "Jumlah mahasiswa harus lebih dari 0." << endl;) Tj T* (        return 0;) Tj T* (    }) Tj T*  T* (    for \(int i = 1; i <= jumlah; i++\) {) Tj T* (        cout << "\\\\nNama Mahasiswa ke-" << i << " : ";) Tj T* (        getline\(cin >> ws, nama\);) Tj T*  T* (        cout << "Nilai mahasiswa ke-" << i << " : ";) Tj T* (        cin >> nilai;) Tj T*  T* (        total += nilai;) Tj T*  T* (        if \(nilai >= 60\) {) Tj T* (            lulus++;) Tj T* (        } else {) Tj T* (            tidakLulus++;) Tj T* (        }) Tj T*  T* (        if \(nilai > nilaiTertinggi\) {) Tj T* (            nilaiTertinggi = nilai;) Tj T* (            namaTertinggi = nama;) Tj T* (        }) Tj T*  T* (        if \(nilai < nilaiTerendah\) {) Tj T* (            nilaiTerendah = nilai;) Tj T* (            namaTerendah = nama;) Tj T* (        }) Tj T* (    }) Tj T*  T* (    rataRata = static_cast<double>\(total\) / jumlah;) Tj T*  T* (    cout << "\\\\n===== HASIL PENGOLAHAN NILAI =====" << endl;) Tj T* (    cout << "Total nilai                 : " << total << endl;) Tj T* (    cout << "Rata-rata                   : " << rataRata << endl;) Tj T* (    cout << "Jumlah lulus                : " << lulus << endl;) Tj T* (    cout << "Jumlah tidak lulus          : " << tidakLulus << endl;) Tj T* (    cout << "Mahasiswa nilai tertinggi   : " << namaTertinggi) Tj T* (         << " \(" << nilaiTertinggi << "\)" << endl;) Tj T* (    cout << "Mahasiswa nilai terendah    : " << namaTerendah) Tj T* (         << " \(" << nilaiTerendah << "\)" << endl;) Tj T*  T* (    return 0;) Tj T* (}) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 92.70079 cm
+q
+.141176 .278431 .419608 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Penjelasan singkat program:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 72.70079 cm
+q
+BT 1 0 0 1 0 4.5 Tm 14 TL /F1 9.5 Tf 0 0 0 rg (1. ) Tj /F2 9.5 Tf (Perulangan for) Tj /F1 9.5 Tf ( digunakan agar proses input nama dan nilai dilakukan sebanyak jumlah mahasiswa.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 21 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 3829
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.4 .439216 .521569 rg
+BT 1 0 0 1 56.69291 31.1811 Tm (Jawaban UTS \227 Algoritma dan Pemrograman) Tj T* ET
+BT 1 0 0 1 499.9027 31.1811 Tm (Halaman 5) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 759.7008 cm
+q
+BT 1 0 0 1 0 18.5 Tm 14 TL /F1 9.5 Tf 0 0 0 rg (2. ) Tj /F2 9.5 Tf (total) Tj /F1 9.5 Tf ( menjumlahkan seluruh nilai. Variabel ) Tj /F2 9.5 Tf (lulus) Tj /F1 9.5 Tf ( bertambah jika nilai minimal 60, sedangkan ) Tj /F2 9.5 Tf (tidakLulus) Tj /F1 9.5 Tf  T* (bertambah jika nilai di bawah 60.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 725.7008 cm
+q
+BT 1 0 0 1 0 18.5 Tm 14 TL /F1 9.5 Tf 0 0 0 rg (3. ) Tj /F2 9.5 Tf (nilaiTertinggi) Tj /F1 9.5 Tf ( dan ) Tj /F2 9.5 Tf (nilaiTerendah) Tj /F1 9.5 Tf ( menyimpan nilai pembanding. Jika ditemukan nilai yang lebih tinggi atau) Tj T* (lebih rendah, nama mahasiswa terkait ikut disimpan.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 691.7008 cm
+q
+BT 1 0 0 1 0 18.5 Tm 14 TL /F1 9.5 Tf 0 0 0 rg (4. ) Tj /F2 9.5 Tf (getline\(cin >) Tj (> ws, nama\)) Tj /F1 9.5 Tf ( membaca nama yang mengandung spasi. ws membuang karakter whitespace) Tj T* (atau sisa enter sebelum membaca nama.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 657.7008 cm
+q
+BT 1 0 0 1 0 18.5 Tm 14 TL /F1 9.5 Tf 0 0 0 rg (5. ) Tj /F2 9.5 Tf (static_cast) Tj (<) Tj (double) Tj (>) Tj (\(total\) / jumlah) Tj /F1 9.5 Tf ( memastikan pembagian menghasilkan nilai pecahan jika rata-ratanya) Tj T* (tidak bulat.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 637.7008 cm
+q
+.141176 .278431 .419608 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Contoh hasil berdasarkan data pada soal:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.03937 479.7008 cm
+q
+.862745 .901961 .945098 rg
+n 0 154 425.1969 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 137 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Keterangan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.0787 137 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Hasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 115 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Total nilai) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.0787 115 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (375) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Rata-rata) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.0787 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (75) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 71 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Jumlah lulus) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.0787 71 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (4 mahasiswa) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 49 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Jumlah tidak lulus) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.0787 49 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (1 mahasiswa) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Nilai tertinggi) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.0787 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Habibie \(95\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Nilai terendah) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.0787 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Megawati \(50\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.721569 .768627 .819608 RG
+.5 w
+n 0 154 m 425.1969 154 l S
+n 0 0 m 425.1969 0 l S
+n 0 0 m 0 154 l S
+n 425.1969 0 m 425.1969 154 l S
+n 0 132 m 425.1969 132 l S
+n 0 110 m 425.1969 110 l S
+n 0 88 m 425.1969 88 l S
+n 0 66 m 425.1969 66 l S
+n 0 44 m 425.1969 44 l S
+n 0 22 m 425.1969 22 l S
+n 170.0787 0 m 170.0787 154 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 469.7008 cm
+Q
+q
+1 0 0 1 62.69291 439.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL (Catatan: Program mengasumsikan nilai berada pada rentang 0 sampai 100. Jika terdapat nilai tertinggi atau terendah yang) Tj T* (sama, program menyimpan nama mahasiswa pertama yang memperoleh nilai tersebut.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000000015 00000 n 
+0000000164 00000 n 
+0000000251 00000 n 
+0000000300 00000 n 
+0000000553 00000 n 
+0000003372 00000 n 
+0000003479 00000 n 
+0000003586 00000 n 
+0000003698 00000 n 
+0000003803 00000 n 
+0000004059 00000 n 
+0000010363 00000 n 
+0000010471 00000 n 
+0000010727 00000 n 
+0000014167 00000 n 
+0000014275 00000 n 
+0000014531 00000 n 
+0000017942 00000 n 
+0000018050 00000 n 
+0000018306 00000 n 
+0000022188 00000 n 
+trailer
+<<
+/Size 22
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+22296
+%%EOF
+3 1 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+ /AF [23 0 R] /Names << /EmbeddedFiles << /Names [(Content Credentials) 23 0 R] >> >> >>
+endobj
+22 0 obj
+<< /Length 24276 /Type /EmbeddedFile /Subtype /application#2Fc2pa >>
+stream
+  ^‘jumb   jumdc2pa  Ä  ™ 8õqc2pa   ^Æjumb   Gjumdc2ma  Ä  ™ 8õqurn:c2pa:7bb925ed-7377-4f0d-8bae-55ab776e6906   ûjumb   )jumdc2as  Ä  ™ 8õqc2pa.assertions   	πjumb   #jumd@À2ªäHùß*÷ÙCic2pa.icon    bfdb image/svg+xml   	wbidb<svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M508.749 317.399C516.777 287.314 508.991 253.884 485.389 230.282C461.788 206.681 428.36 198.895 398.273 206.923C376.231 184.928 343.39 174.956 311.148 183.596C278.906 192.234 255.45 217.292 247.36 247.361C217.291 255.451 192.233 278.91 183.595 311.149C174.957 343.391 184.927 376.232 206.924 398.274C198.896 428.359 206.683 461.789 230.284 485.391C253.885 508.992 287.313 516.779 317.401 508.75C339.442 530.745 372.286 540.717 404.525 532.079C436.767 523.441 460.223 498.384 468.313 468.315C498.383 460.224 523.44 436.766 532.078 404.526C540.716 372.285 530.747 339.443 508.749 317.402V317.399ZM470.899 244.776C486.892 260.77 493.488 282.601 490.687 303.412L415.577 260.046C412.411 258.218 408.509 258.218 405.345 260.046L317.401 310.82V277.526C317.401 275.191 318.652 273.005 320.676 271.837L387.644 233.174C414.178 218.353 448.346 222.223 470.901 244.776H470.899ZM357.837 311.144L398.275 334.491V381.185L357.837 404.532L317.398 381.185V334.491L357.837 311.144ZM264.776 269.693C265.207 239.305 285.644 211.649 316.453 203.393C338.3 197.54 360.505 202.744 377.127 215.573L302.014 258.937C298.848 260.764 296.898 264.144 296.898 267.798V369.346L268.065 352.699C266.043 351.531 264.776 349.353 264.776 347.017V269.691V269.693ZM203.391 316.454C209.244 294.608 224.854 277.978 244.276 269.999V356.73C244.276 360.384 246.226 363.763 249.392 365.591L337.337 416.365L308.503 433.013C306.481 434.181 303.961 434.188 301.939 433.02L234.971 394.357C208.868 378.789 195.138 347.261 203.391 316.454ZM244.775 470.9C228.781 454.906 222.186 433.075 224.986 412.264L300.096 455.63C303.263 457.457 307.164 457.457 310.328 455.63L398.273 404.856V438.149C398.273 440.485 397.022 442.671 394.997 443.839L328.029 482.502C301.495 497.322 267.327 493.452 244.772 470.9H244.775ZM450.897 445.982C450.466 476.371 430.029 504.027 399.22 512.283C377.373 518.136 355.168 512.932 338.547 500.102L413.659 456.738C416.826 454.911 418.775 451.532 418.775 447.877V346.329L447.609 362.977C449.631 364.145 450.897 366.323 450.897 368.659V445.985V445.982ZM512.282 399.221C506.429 421.068 490.819 437.697 471.397 445.676V358.946C471.397 355.292 469.448 351.912 466.281 350.085L378.336 299.311L407.17 282.663C409.192 281.495 411.712 281.487 413.734 282.655L480.702 321.318C506.805 336.887 520.536 368.415 512.282 399.221Z" fill="black"/>
+</svg>
+  jumb   )jumdcbor  Ä  ™ 8õqc2pa.actions.v2    ﬂcbor¢gactionsÅ§factionlc2pa.createdqdigitalSourceTypexFhttp://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMediamsoftwareAgent¢dnameegpt-6gversionegpt-6dwhenx2026-11-13T11:43:59.558315ZrallActionsIncludedÙ   §jumb   (jumdcbor  Ä  ™ 8õqc2pa.hash.data    tcbor•jexclusionsÅ¢estartY˚flength^‘dnamenjumbf manifestcalgfsha256dhashX ôì‚•†ÆïÚ”–Ï†Ûáã ÓåÏ{hdªπè†“—„cpad@  âjumb   'jumdc2cl  Ä  ™ 8õqc2pa.claim.v2   Zcbor¶jinstanceIDx,xmp:iid:bafd2258-d18b-4325-af2b-855d05ae7862tclaim_generator_info£dnamegChatGPTdicon¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„ÒkspecVersione2.2.0isignaturexMself#jumbf=/c2pa/urn:c2pa:7bb925ed-7377-4f0d-8bae-55ab776e6906/c2pa.signaturercreated_assertionsÉ¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„Ò¢curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX ;ß?)~zrŒá„Ë»jm#7⁄≥eP›îâ3sE≤˛∑£¢curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX “ΩN{av8=]ß¶Í—x©˜†b7îB§Ò/›F^»fhdc:titleiimage.pdfcalgfsha256  P8jumb   (jumdc2cs  Ä  ™ 8õqc2pa.signature   Pcbor“ÑYË¢8$!ÇYà0ÇÑ0Çl†•¸ÈpåÚÄ1ÓDds0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260422155105Z270423155104Z0G10	UUS10U
+OpenAI OpCo, LLC10UOpenAI Media Service0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ù∫jLMóÍÅâ∂—æ^XNr°ôﬂiq|Â!#”Å¢5úL£J<Ôn+øÊdÆ◊ÑKi$ZcœÍv
+ê≤e€|<ç·˛¡3wØ'ﬁ; :¥cáòÕMúø¥3D™T07F∏˝öyDsWU£c|›¨X/ÊzÆﬁ•ò√ìNHZ¯‡|§íK’l∫ ¬*»íæu‘îgµW™jöm00,◊Uaåj“S∂ x^ECûNí£ÄÒØ[—≤Î˛ãÔ∫◊7	ï´d-ô…áö¯ø.–ÁcÄñöy†7ì6£5…H…,òcÈDõ5¨πßSlúhs»
+9ÃIÛ £Çg0Çc0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0o+c0a09+0Ü-http://crt-c2pa.ssl.com/SSL.com-C2PA-I-R1.cer0$+0Ühttp://ocsp-c2pa.ssl.com0U 00
++ÉË^0)U%"0 ++$
++ÉË^0UÛùM‘Àùr¯F
+vG•hOt0Uˇ¿0	+ÉË^
++ÉË^
+03	+ÉË^&$019bc403-5cd7-7669-afe6-fdb17177d4280	*ÜHÜ˜ Ç Ç8óle°7 Ò˘Ìt∫’¶[5ıglœ+fi@Õı¸“rVﬂ ï(Í¯fﬁBC=¯x†h(â≠µÓ¸ı2“å∏_ÁlÄnÎ[|ó[0Á.B∏∆pö˛˛ 	¨5F’†åIEÄ√∫íU«Zùo“Îÿyõñ:ºDê44}ÙA•3ó/.lQR
+m=I∞À«ÜXÃ‹Óû.È∆9∏3\ ⁄Ó W3T.p(J%)Oí|.“˙›g.zËPx9Q∫É:⁄à~ê#êíıbXöÂ¬®sÜû≈ÿqÈÔ\d{ëÓ7/vòxVdÁoB—}íºÖjomdÖÿˇ"ñÌπÔ≤–\Ñ}h]5[K±≈iHyÊhé†ƒaò:L¯¿$yÂ¶h‡Ô˝÷ê÷.-AduV_ìî∂°úä<∂¿ËmÛ≈CÁv,h§ÚÊÀãàïË{*r$Å=!∆cm/%Ä£ô[™)•˝GÍ·˜kÂ˚[P&m+°Ç]1ı›b®|2‹L«•,r0PÄWìÇ‚ËÆ≥ßØY4ÆrÔ*ùÆx¨‚3ÏSµ…ô“(®*7°N´¸Ã~Xõ'mE·¥*úΩ0W°1. .…‚»T€°íOæ$5ò˛/i‹∏M„ﬁ/Ëlı¡ä‚”˛rw”®+‘WóÆáÿ æì∂âYS0ÇO0Ç7†'+c»ÃM-õÑQrlÙú^2QÆﬁ0	*ÜHÜ˜ 0O1&0$USSL.com C2PA RSA Root CA 202510U
+SSL Corporation10	UUS0251222181730Z301221181730Z0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç À:¥Õ∏úÀ)V∏yß¯kˆ˘ÿèr√¶ò≠*A⁄a.GRΩtQæ]ÏzÇ∂¿˚˙Ë'•ãË˛bÛ`Ò_H ssï‰NnÃNz5ﬁX·◊Ç‹“GCwõﬂHàyü£9§YN^‡NGóÚuB◊v=∂§"‹Ì∆o‘rFå÷Q«µ∑zÚì˘#'’ÄPuäp†hÈÁºÑ(|ú*Í)©¿/˛…vFU∞/cÍ}ûÙ∞D§@ﬁ@6\DäTkWHˇªo§’Íé¬◊|ÿºŒiø† MìE;ô.y“œûü)ªFŸxc0ñ3Qú^ìm˙Â4JXx≥)l]|∏uï<ôw!{ÿ¥JÎ⁄Õ«
+÷…¢ﬁÆó≥∂Qñ⁄íõ√≤ªPƒ˛∂§Lï]-íjObÂ‡*˜i†ú’πì ⁄—ª^O∆Ø˘)L–…ÏÎÛ≤qP{v'hë˘Pà∏w5ÿÕ°·◊”)ÁJ∆áTY$¬g≤m	5€∫Œ∏F•‡ã⁄·ßüjŒ`“ƒ˜¡ﬁsyU‡p¥ÔÍÃ«˛vâNf
+ià-Ì√F¢*‰å‘úWF-Xb’ ®˙~¯¬ŸajÀ5]†ì£≤e®/ÌÔòÁ¸~∫HÙ™°q¸ìØÍßNsài’B¿˘ÑíÖOÀT≥=:¯›)ey Cûñ∏áXñ!Ô—ë{ £Ç&0Ç"0Uˇ0ˇ 0Uˇ0)U%"0 ++$
++ÉË^0U9=G‹óèØà{MsÕÂÓ§•*0U 00
++ÉË^0U#0Ä¸*Ju:Ä˙ôcìsWÏæì∞}√{0x+l0j0$+0Ühttp://ocsp-c2pa.ssl.com0B+0Ü6http://crt-c2pa.ssl.com/SSL.com-C2PA-Root-2025-RSA.cer0	*ÜHÜ˜ Ç Œ6˙>Ôñ6-éØUfˇ{+ kVıÀ≠Ω*Å≠•¶–M£>ì‰ìi’‰å®nÊ7T‚%úÏef(<3=¢ö¢ªÕgdJÁæt!°n√´&ƒ;,⁄Uπ˝GN‡çxõ7Éƒt;≈GaÔmAr§€]CS…ñNÂ‡:ﬂ®›.—ØXó÷ÁÙ_r#<kœΩ9´åì®èßvY>·íı˜Ÿ˚Fb´nn‘àF†≥/*j_•N⁄¯‘¸ÃŸ£<©wE
+¡˘òπ9ÀÃ°q¿*Çq”‰ˆ%‚Q!m÷ﬂ‰SçoJ}é^¿∫’wy!ÅzŒÌ˜õé∂≤äBVùèkA*˛kúãÓ£(œ_ÛÈ–d÷Ó¬âKÎíœıØ¬'M∏ë°7%ôÊ˝Ä‹Ùº«7{æ¥-gX/Á√≥ãqÂDz0∂•≤u>[#~;”T¶:π«Ã3’j5zÅv/˛W⁄i¯>?ÔTèã{F√cû˙Ìƒ/pÑ+ˆVÇÙßÀ$◊l^${:Ω©X;i≥úè“ptˇãn&ª√´E«SñúGµ∆F´^ı¸àãh£5Â|jïeµ´Îπˇ∫∏‡õJG≤ŒÏ/â}ÓØúMƒ…Œı2=è˜&4˛"ãzÌ˘^^g_Q[€$V˚—Y°∑ﬁöf	∂—Ü.˙}~ïyõDf|6Öˆı£gsigTst2°itstTokensÅ°cvalYã0Çá	*ÜHÜ˜†Çx0Çt10	`ÜHe 0Åá*ÜHÜ˜	†xv0t
++Éø0010	`ÜHe  o¸MÄdUsD†ú›¡;ÅÅ¨ÚHe(^œ@∏‡¨„8é	 ädf◊ö6zk20261113114403.365877Z0ÄLc¡$†Çf0Çˆ0Ç^†a€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ 0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0260408174626Z370709174626Z0u10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Leaf0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ Í ≈≠î˝˝'ü«xßa ˇ)a*˚°àÕ_®¢óùâ/ãë»º∞ñê=UÇ¡ñé6j≠âiËê€,D2É®
+ÕwÂ5ËÓ®d[˛∏‡éùÁ °(√5›ß7È"˜	Móö¥Ñs¿.|©PG(†¥i∞á)zY˛5B˘ŸiRJ 7ÚhÃÒ-∑Çñ KF\=§Ü∏KEf8¢NM' ï∫uÃNájüt√ $_ƒ~\Æ˛ÛïÌ ëﬂ<ıÜõ*^÷–›…˙»M√…ÑZI,‰8s`R∏LÓ∆Û∑∂ÿ›j©Œ ∫]÷ƒ\5dÚ#S?bée]p+‘…k	ÅERËWÌZF]⁄]vú%yhÉQ§òÑuëròUˇÿ„Cb±Ìig'Aº≈èÚj+ÉIË·-4ª9ØgΩ¥ï»≤ΩEgÕràî_UK,≠ØÌ•Ù$Øw>ÉädQèëå9ñK∞=Æ˙ô°>å=æ6°.ıcµ £x0v0Uˇ0 0Uˇ¿0U%ˇ0
++0U§'TÇ¢äÄ{=≈ÜÕ?pŸ¬ÉôQx0U#0ÄÚ∞«T=#CÖ‹ s–rÄ=∏®0	*ÜHÜ˜ ÇÅ  ˚$OA¿¿ºò≤2 ç ôH5OƒFV~ß>?∂•#˘*H>‡QùE@x¡ªÉNìP…õ'ñhﬂMŒÚˆ“y´ÔÍ¡⁄?ıòYÊpÕâÙÓGã™ÀÏˇå~·FÿëÊú∏‰4Fˇa“x¯}89„RÌ_fËs¿ r;‰®´éÜ*£7!˘;ﬂ{\TÿL«j*KœCt`Äs£…—wØá©˝µ±Ñjnøà*Œö°ö´¢ûÇH7≈cQó€R|og…iB’œı˚≠^ãê‚‡y<.Éjû•Ë%AèÖÌ‰¡†:ç˛ùRPÔáﬁ·dÕU˘! ﬂ∂)Ôü'n—∫4F´J"OÁbw›E#›a-¬1)èƒπ~y´¥W‘¡Ïœ·\{eI∞ÎM´§«'@N¶¥µèœ|√¥Cßv”^0cÓ®Æ5(td´Z5„[/:>N
+a÷0MCõˇN.∆!π>:, W0ujédK¢–	—◊†g&Amg¯pv∏%&V˘ë&'√KI0Ç~0Çf†ç ∆≈≈⁄∞ºÒNï•Íº0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174626Z21260409174626Z0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ âº‘π‚»°æaªﬁ<df~ßæúm”©0&<Ù‡k 9ﬂï4Ì©¢eH€7Ü2ÉéÃ
+J†¿Û4l†¿òÕ+ü•ÙÀ|Ÿ&ﬁ~…M¢Ôc[ëÊˆY®“˙N˘Ÿ8+ZÕ`ZòÅò®◊S∆„÷.H¨CW	ÈîÚG˘lEä`∑˜Æ/^¢5NÖ8Öiü4ù–MÿC=Õ4m¸cì¸”pªJËvËjNfI†Ì¸¯æÔö∑®w¨Ô∑8Ãπ‘*3ƒv÷@wÀ˛«]-@”ﬁã<¿÷@AôÀî?,} kR¸û P∑	GE·#U˙±OoTòïÙ}∫¯h·"z‹äëCã∂.C±b†æ $é.Ôø§—MË∏?1œ&=≈ PÍÚŸ$ dÌ’sû.px™ﬁV<˘‘Ä¢Ë≠Øˆ˚®£\Àh´D€0wÚƒ4tkUm∆á˚Ú2<ûqE˜ÏP˚˛÷1&ª–ƒMa‚B€Ø√+n_+Ê‚∞Ôç\DÕ¿s}è¢ÈΩmÇº%eÑ0iÌ £{0y0Uˇ0ˇ 0Uˇ0U%0
++0UÚ∞«T=#CÖ‹ s–rÄ=∏®0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç íÏ7\ﬁlÎd⁄Æ°	0rÆ‹rı;ºz=÷∆·/ˆÉ3}ËW@NLô™k‘ôŸã€k÷L¯ –Y3”°†8\#àD$˚á·ˆì'º°ÌL_g]ˇ5´1“Ï{‘@C7O¬Ñú∫d»∞¢~ö6¯·–Ç≥PC≤‡UΩÄî»YRNJtﬁ]«EXõ∑˙0™;‹Gº’.,π8c,yZ∑›U≠=BﬂàœÒh˛s ‘Z∑ﬁ$óë¿Ág˛‹¶
+Û•F≥QœçØ_„»∏@∆Ω„˘÷Kq–d]Âd¬K¿^w—=«[ûœ{˝îîÁKQ⁄˚dÙ´5îÒˆæ~+›≤ö=P›P√ñdém´sü(;w–óÌoEO±3._FÎÉ∂©aº◊ÇÆ¯Äo¬„i0Êm|:Dí+ò-Ø‹4¡æ•*HÁá»ﬁ8µ3 „ÑPpÒ≤KﬁçOˆë‹_Ö˙ÒÊ—◊ ßÓ¥üˆ!x)Å„pXwÜ§:KóÉFË⁄¬jv…©À!Eæe±†Ü.ÄºYKMõCm¥◊Ñ‡¸’»aêCéjù√Ò!<Ñ]˛;÷ÿ#9E_q˙2˝†ÄïDµO Â√t˝‚NárÜÙQáΩ‘µ+5lí§;kjù∫˝¿;úv¬’9I⁄„î>Pj◊L‚âaùÔÎœ≈√@npz80ÇÊ0ÇŒ†P;lâå$3,è˜Oé˚}ÇÏ0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174625Z21260409174625Z0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ˆíÈ“∫≠û·¨u®Vÿ™±≥jí_ñyıí∑-$¯ø¿Ø`æ¡öÕyö‹lö˛6ö¡ò§?‰,ù∫••Ps≥
+¬˘ÛƒI/xΩ“ÏºÁ?Ùõ—Ú†a¢,â% Q˘%ú“∆/ÙâƒA˛&”m5ÕÏª5`@®ÖQæˆÓêòÒ*ÿùzkjŸ.ŸcÛÂ\)≈Ü"¡ähÕÎ8û©Pñ[#C˚8ˇB|;:°Q/%…H‹1ˇPrÓ|°wÕoÅaÛ?ønË“±¶6‰k2˚˛w®^õ\››1êLéeˇÅÀAŒ(1S CŒHn}÷d≥)‰¥.:∑TZrVWÛ®j}ÔÊa›e»H	Iô2t
+¢Ã›ì S¨#ΩÇÖ ±ÔæÌ°w Ó:F3¢ûÏØÈ1f¥fo≤âì†~ï!ŒA¯^éÈÕπ¿’3]x––'1œP0rs⁄j¬¿ìœ≠‹dáˆ˚Nàvı>Ôˇí,ôw.ˆ‹ò∂ù	:˝Ù	«è_ZÈ~H	+µäÉÚ[<,Øë¢ùA∑Rh—ø∞¿⁄O`ΩÓ)™Ìáçq\(åçà£%cEÿ¸{aèlFT;\…∞ÇØÉ»±#?ü[Ó¢◊Tµ*SÆªÖ€¶˙óûÏÑârÛz@…∂ÖXG[Ò$a9¢Lﬁÿ∆®"Úûø[L,À £f0d0Uˇ0ˇ0Uˇ0UX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç X¯ÅëòÚla˛»Ü÷[Ñ¶÷æ∏¶]]IÀ∏°)Õ-ù∏X˘Ñâ=<¯o’j¥*¢UígÅô^µT˚öFÄ„Q S¿¡àWﬁÔÇU~„Ù}Î&¸Éˇ!®¡¨ﬁ€ì´Õ–0v:ìùŒ™g9.Ätﬂm~v/ÈÍPAã8=lÂ‡>Ó/€dT6^æbE∂—!¥Ä<åÎ⁄ú÷J©’Te[k—X~¿IáÎÎK_í;î◊öÜˆ°YŒG8¨√∞td—¿R;°±{(k·ió¯(;'ˇÆ§û˜eÀ†ÙÍπΩîŒD‚ò±
+HhÓU©!•`è˛ ÷}—{Ü úÛ®x–∆⁄@.»Å\b®*¡˚VÁyéØÏÂ€”p˛FÃc®dÒ<ÈØ•dº^øÖ-∞Œ„π”§◊RªpãÜù˚.ø
+ˆ“U+#B+C\Ï°Ça?œqÌ∞˜óÈ‰À¬<¸¨w∑∂‹ ¡LÈâ≤≤/√~ídúµÑﬁÃñ˝â∞KµC}“È≠Ü˝Ÿ-üΩ Ó¿¥GV#|HëNgâ {b¡…^UÒˆ∆Q#WoÔáæ Fyæî±» (ùïäà&UfRÔŸK∫®ZÈ¬,≠ü√\BÛ°ı'dyqå
+Zû˝π˘Eyp·jµ7ñéX˝EøT%åÉ=Ÿ&3#–Xw¶∏1Çh0Çd0Åì0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	`ÜHe †Ç%0	*ÜHÜ˜	1*ÜHÜ˜	0/	*ÜHÜ˜	1" m€ÊˆJÚ'ù-!ä˝aâ´˝‘BrÇÄT2úÖÑ€>+7‚0Å’*ÜHÜ˜	/1Å≈0Å¬0Åø0Åº ΩOπ≤êLÅ6gànÔA·m˛Ÿ"ùø[íJ–¢ƒ`F"z0Åó0§}0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ ÇÄy<óFpè@¿ˆfmÎØj’Èˆ_ƒÏ÷G°ƒ˝ƒWíˇú”U- ¢3¶Òûªˇ6K_$jä‰xôxÌ¿˝¨	¨€∞lf^HÇ(>ø§ñƒÓe“>±≥N d¬Hƒå†™¿V§ÿª}ZR-‘Å!ˆgKÙ¯«9ı0^UbøcÛ
+Ô“Iû_?ÏÛ±æƒ6Ù≈G"¥VÏFÌú´Úÿ|Äæÿ¬Ëõ°6¯OV¨*fÌ‹_T$≥ª˛.fC„è≥JTrl¬ƒ¨^†öœÓ.¬ùK<FÚ´√,78I¬ÍXïL.iøs1⁄&”Ü—ÉjŸË—ÙçÑ4ÊÈ˛)…ítßƒÈæ$?6¨ÕèS€[·È˚À˚≈˘]ôW q√eq·£ªy,’4*∏ìiÜ
+Ì…6e7•sŒ›Ù«X áœò«∂‹FPw‘Ù¸ÍÊˇéWNr¢ãœÔçˆ∑mV»ø=üıVçx¥ﬁ¥DÑz6Ù≠/µ–_-[≠{f/F!éJÌ„erVals°hocspValsÅY◊0Ç”
+ †ÇÃ0Ç»	+0Çπ0Çµ0ÅÈ¢mÃ†g\¿ÃwY◊UBÉ≤÷+20261113110434Z0Åò0Åï0I0	+ ﬂÇ7S^Sÿ3±‡=$5ÒuÊ·
+9=G‹óèØà{MsÕÂÓ§•*•¸ÈpåÚÄ1ÓDdsÄ 20261113110434Z†20261120110433Z°"0 0	+020161115110434Z°#0!0	+02·Å—È<Öô´‚Ío\êi0	*ÜHÜ˜ ÇÅ ú›8@ÈÓ˙«·8º75ìmVrX}L@´w& ÎGH˘Å∞ê`‘m ΩÇ*ï—ú?Mà∆ÚTõ¶K≠7	jzl÷ìøA±∂ƒÙ˘ﬂ˛re›«´YSRè√∂∞Ëk5≤ß◊",L¿PFÃ∫∑n#!\‚πbßíõGŸM±î(*/ÁY7(,td‡VeÂi:7Bq≈{ÑN?:?Ò⁄
+ZÏ:G‘Óp®Î≥PyËÍ(n>C+OåTœ Ôc.8ƒe™Y›ãwÍÎx/Lö(€efN˚b„Q2F˚7ÌY#!≈£€T2"∫˝Ë÷ç‰8¯U>í7˝ P±2‘mJ‰i∂ãßèÉà¡∫Ì{}Ä3†ììùã™3Sé…ˇΩÎÿH∫ƒÂÍá⁄¥}ÑæO=«}BçnL:ª>˙Ü"ûßìx9òä
+W9yKy~`,hÓ◊ËêsI´∫0⁄dmVÈ1ã!ÄŸ¶Z‰»Ó K3v´1àƒˆÔÕTòõ∂lÏë^÷‡ïœ◊csÚG†Ç10Ç-0Ç)0Ç†pßπß⁄!ıD–Æ≤D0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0261104111802Z271104111801Z0M10	UUS10U
+SSL Corp1+0)U"SSL.com C2PA ICA R1 OCSP Responder0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ ƒ''â°mˇN/VrWa=XÙúQoŸ|	∫'êIªT#á"úˇ∑j ∏I:ﬁ
+%≈˚‡àI‡•˝∏oÊØD?öÛ[è…A≤“˝Ò3W≠˚è¬-ÍŒ $°|©ä3Ú˚JÜ∆/˝.:°ÁÎøçÜ±tæZãE*≠vµ-∆CÃò‹å›ÿI±ÑØzû°K÷7ÅÆŒùÕ›¿!òπ√n‡9ÍìlnT.Œ(à™6÷:%â>¡˚Bb„nüIàDÑ—£yëO14—º“IZ_Im/PÄé®/Ftp©»g∏BÂqt 6KVt∫√ı¬~Yø÷ÀÁsã*‘Êü"©<qtú‡n[9NÒûÌÖ°Å3$Ilˇ°
+Jg5+∞˛®÷	Uvl¿øz?0•…øÅ|îÚ†≠Qñ`#ä« ¨ˆ£‘—b]˜X`ß¯	e&¥R5Ï˜˚÷ßπ˜É Q©%∆BÖ∆”$4qD_–œ:TÖœ4ﬁSŒ¶&‰©l≠ÄçP¯—≥◊ºwY £Åá0ÅÑ0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0	+0 0U%0
++	0UmÃ†g\¿ÃwY◊UBÉ≤÷+0UˇÄ0	*ÜHÜ˜ Ç ≈–]ıF¢¸ÎAgÜNﬂ_Î7	dh∆=´dcñèÄÜ>π>& W9˙ù^%⁄ÍèSm`0K≈Úñ˜P⁄\Í&ùµK£ªÏ ;ò Gh⁄˚IfØüŒù/—t≥© ∂;À<†6“¿-◊jaº á›:õu>âÀ©Ö‚ë’Ã∞’ı	Tt@œ≈E¯˜¸≈W˚™bÍπˆ!
+òóO' ¨o€èß¨2ePs°ˆå¿.
+ŒÌÊl‚£sÊQ.8íÜÅgæÕúå êØiÎè(m«õÎß˜ÎÖ÷∂®£@ˆ©∑üﬁÆo§6ˆ|V¯HÎØÌA}ª}¸hÅ˚Ï™ì$/‰z#≥&`ıWxïÅ ‡qƒ&07å]ëÑ—VuBøÂ{ÿU¸Ü≠Ê¯bÍ∞›5\îøÈ«'∑‰-7Ò>w±Dài|®›¸¢πÖ>H¥£€n^G6üë0ﬂÅ?:%˙Á1º»qÇBˇö`0\˜√ä=5o
+=Áe¡}ŒH82"HA‡˚y-—3Âv	§˘u&'Ωw%∏ö¶Xyaw«∫«ûK°µµ›â∞£0fG ÈÒh#©aJÅ\”≤©e¢∏´‰I˚gö∆™ÎsœÙâ±9zX∏À´Àïˆ˚|u>«›>FÛ†ws»nˇMºÅ˙Œä[!R¡Ôß„y]…√ªP+Ê¬Ê;cpadY&u                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ˆY å˙Ë≠
+•_mıi}˚Ê›ëj^%_öU‡±Y3πÌ¨≈˚v1Ôáp®T+Ò»énëtÿœA©’‹VVÕ3/⁄8FSæ
+U=„Å≈qΩtLÅ´»Ê∆Á±w≥íg˝´¡ΩfÚ ‹%#¬‘ä√â1 /ìbrgIw±Z[Œπ|x\#cm—ë∞LevTiπ’∞TúJ˜≠~Äáo–Öî™ñz
+“î”‡
+ÍX[¸:ø
+Bµ
+8ù!‘u¥gıU*4Kf’êó≈döÀÎó¬ß≈–·MP]ˆD‚’≈)¯n7ò¯XK"*®KÎ∏â*Åíuï(¥Ë•
+endstream
+endobj
+23 0 obj
+<< /AFRelationship /C2PA_Manifest /Desc (Content Credentials) /F (Content Credentials) /EF << /F 22 0 R >> /Subtype (application/c2pa) /Type /Filespec /UF (Content Credentials) >>
+endobj
+xref
+3 1
+0000022815 00001 n 
+22 2
+0000022950 00000 n 
+0000047329 00000 n 
+trailer
+<< /Size 24 /Root 3 1 R /Prev 22296 >>
+startxref
+47525
+%%EOF
